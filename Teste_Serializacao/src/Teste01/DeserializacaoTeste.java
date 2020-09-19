@@ -18,7 +18,7 @@ public class DeserializacaoTeste {
             clientes = (ArrayList<Cliente>)ois.readObject();
             ois.close();
         }
-        catch (Exception e)
+        catch (Exception e) 
         {
             e.printStackTrace(); }
         for (Cliente cli: clientes)
