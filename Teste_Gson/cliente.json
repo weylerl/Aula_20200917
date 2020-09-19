@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Pedro Alves",
+    "CPF": "42145687691",
+    "dataNasc": "Mar 3, 1978 12:00:00 AM",
+    "rendaMensal": 12345.0
+  },
+  {
+    "nome": "Maria dos Santos",
+    "CPF": "12345678944",
+    "dataNasc": "Aug 13, 1968 12:00:00 AM",
+    "rendaMensal": 0.0
+  },
+  {
+    "nome": "Rita da Silva",
+    "CPF": "71373678949",
+    "dataNasc": "Jun 27, 1980 12:00:00 AM",
+    "rendaMensal": 0.0
+  },
+  {
+    "nome": "Roberto Carlos",
+    "CPF": "41373878913",
+    "dataNasc": "May 17, 1950 12:00:00 AM",
+    "rendaMensal": 0.0
+  }
+]
